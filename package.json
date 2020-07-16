@@ -2,19 +2,20 @@
   "name": "web-gui-frontend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "app.js",
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/debater-coder/web-gui-frontend.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hamzah Ahmed",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/debater-coder/web-gui-frontend/issues"
   },
-  "homepage": "https://github.com/debater-coder/web-gui-frontend#readme"
+  "homepage": "https://github.com/debater-coder/web-gui-frontend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
