@@ -12,17 +12,17 @@ img {
 @media (min-width: 601px) {
     #robot-feed {
         width: 50%;
+        position: absolute;
+        top: 20px;
+        left: 25%;
     }
 }
 
 @media (max-width: 600px) {
     #robot-feed {
         width: 100%;
+        position: absolute;
+        top: 20px;
+        left: 0;
     }
-}
-
-#robot-feed {
-    position: absolute;
-    top: 20px;
-    left: 25%;
 }
