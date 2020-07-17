@@ -11,13 +11,13 @@ img {
 }
 @media (min-width: 601px) {
     #robot-feed {
-        width: 75%;
+        width: 50%;
     }
 }
 
 @media (max-width: 600px) {
     #robot-feed {
-        width: 50%;
+        width: 100%;
     }
 }
 
