@@ -1,0 +1,13 @@
+/*noinspection CssUnknownTarget*/
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+#robot-feed {
+    width: 50%;
+    position: absolute;
+    top: 20px;
+    left: 25%;
+}
