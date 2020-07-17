@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "scripts": {},
+  "scripts": {
+    "update": "git add . && git commit",
+    "postupdate": "git push origin master",
+    "start": "node app.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/debater-coder/web-gui-frontend.git"
