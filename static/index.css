@@ -9,7 +9,7 @@ img {
     max-width: 100%;
     display: block;
 }
-@media (min-width: 601px) {
+@media (min-width: 801px) {
     #robot-feed {
         width: 50%;
         position: absolute;
@@ -18,7 +18,7 @@ img {
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
     #robot-feed {
         width: 100%;
         position: absolute;
